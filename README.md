@@ -2,13 +2,13 @@
 
 ### Product Designer at Okta
 
-- 🔭 I'm currently working on **exploring developer tools and vibe coding**
+- 🔭 I'm currently **exploring developer tools and vibe coding**
 
-- 🌱 I'm currently learning **to design, build, and ship smaller projects**
+- 🌱 I'm currently **designing, building, and shipping smaller projects**
 
 - 💬 Ask me about **design, research, portfolio reviews, and all things design.**
 
-- 📫 How to reach me **interpid16@gmail.com**
+- 📫 How to reach me - **interpid16@gmail.com**
 
 - ⚡ Fun fact **I like volanoes**
 
