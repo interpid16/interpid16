@@ -2,13 +2,13 @@
 
 ### Product Designer at Okta
 
-- 🌱 I'm currently **designing, building, and shipping tiny projects**
+- 🌱 I'm currently **designing, building, and shipping tiny projects.**
 
 - 💬 Ask me about **design, research, portfolio reviews, and all things design.**
 
 - 📫 How to reach me - **interpid16@gmail.com**
 
-- ⚡ Fun fact - **I like volanoes**
+- ⚡ Fun fact - **I like volanoes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
