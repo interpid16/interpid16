@@ -2,8 +2,6 @@
 
 ### Product Designer at Okta
 
-- 🔭 I'm currently **exploring developer tools and vibe coding**
-
 - 🌱 I'm currently **designing, building, and shipping smaller projects**
 
 - 💬 Ask me about **design, research, portfolio reviews, and all things design.**
