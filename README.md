@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harish Shivaraman
+# Hi 👋, I'm Harish.
 
 ### Product Designer at Okta
 
