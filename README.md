@@ -8,7 +8,7 @@
 
 - 📫 How to reach me - **interpid16@gmail.com**
 
-- ⚡ Fun fact - **I like volanoes.**
+- ⚡ Fun fact - **I like volcanoes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
